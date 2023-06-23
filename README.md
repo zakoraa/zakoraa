@@ -22,7 +22,7 @@
 </br>
 
 ### ✍️ Dev Quote
-<p align - "left" <a> <img src = "https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" width = "500" height = "300"> </a> </p>
+<p align - "left" <a> <img src = "https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" width = "350" height = "200"> </a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=1)](https://visitcount.itsvg.in)
