@@ -1,11 +1,9 @@
 <h1 align="center">Zakora</h1>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakoraa&show_icons=true&theme=dark&locale=en&layout=compact" alt="zakoraa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakoraa&show_icons=true&theme=dark&locale=en" alt="zakoraa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=dark" alt="zakoraa" /></p>
+![](https://github-readme-stats.vercel.app/api?username=zakoraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </br>
 </br>
