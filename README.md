@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/raflisilehu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raflisilehu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@raflisilehu6185/streams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafli silehu" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@raflisilehu/streams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafli silehu" height="40" width="50" /></a>
 </p>
 
 </br>
