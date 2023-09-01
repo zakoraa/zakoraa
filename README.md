@@ -7,6 +7,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=radical&hide_border=false)
 
 </br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </br>
 
 # 💻 Tech Stack:
@@ -17,6 +20,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/raflisilehu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raflisilehu_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@raflisilehu6185/streams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafli silehu" height="40" width="50" /></a>
 </p>
 
 </br>
