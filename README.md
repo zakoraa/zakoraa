@@ -1,15 +1,17 @@
 <h1 align="center">Zakora</h1>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=zakoraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=react&hide_border=false)
+
+
 
 </br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </br>
 
 # 💻 Tech Stack:
@@ -25,8 +27,6 @@
 
 </br>
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0)](https://visitcount.itsvg.in)
