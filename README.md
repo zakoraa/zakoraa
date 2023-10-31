@@ -1,16 +1,22 @@
-<h1 align="center">Zakora</h1>
+<div align="center">
+  <img  width = "40%" alt="gif" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"/>
+  
+</div>
+<div align="center">
+  
+# Zakora
+
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <br/>
-  ![](https://github-readme-stats.vercel.app/api?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=react&hide_border=false)
 
 </div>
-
-
+  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -34,6 +40,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
+
+</br>
+
+## 🎧 Music
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31juwflawxuxhufoheoclj6rg5ra&unique={true|1|on|yes})
 
 </br>
 
