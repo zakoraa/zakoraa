@@ -1,4 +1,5 @@
 <div align="center">
+  <div align="center">
   <img  width = "400" alt="gif" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"/>
   
 </div>
@@ -7,6 +8,7 @@
 # Zakora
 
 </div>
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -25,7 +27,7 @@
 
 ## 💻 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -49,13 +51,17 @@
 </br>
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/raflisilehu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raflisilehu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@raflisilehu/streams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafli silehu" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@raflisilehu/streams" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
 </p>
 
 </br>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0)](https://visitcount.itsvg.in)
+</div>
+
+
+
+
