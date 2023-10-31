@@ -10,7 +10,7 @@
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -26,7 +26,7 @@
 </br>
 
 ## 💻 Tech Stack
-
+</br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
@@ -44,8 +44,10 @@
 </div>
 
 </br>
+</br>
 
 ## 🎧 Music
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31juwflawxuxhufoheoclj6rg5ra&unique={true|1|on|yes})
 
 </br>
