@@ -7,15 +7,13 @@
   <br/>
   ![](https://github-readme-stats.vercel.app/api?username=zakoraa&theme=react&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=react&hide_border=false)
+
 </div>
 
 
+
 ### 🔝 Top Contributed Repo
-
-<img align="right" alt="gif" width="370" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"/>
-
 ![](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 </br>
 
