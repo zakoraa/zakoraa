@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width = "40%" alt="gif" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"/>
+  <img  width = "400" alt="gif" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"/>
   
 </div>
 <div align="center">
