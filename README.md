@@ -1,14 +1,8 @@
 <div align="center">
-  <div align="center">
-  <img  width = "400" alt="gif" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"/>
-  
-</div>
-<div align="center">
-  
-# Zakora
 
-</div>
+![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m](https://github.com/zakoraa/zakoraa/assets/129678009/96725c24-50c7-4827-ba9e-c70323efc56d)
 
+</br>
 
 ## 📊 Github Stats
 <div align="center">
