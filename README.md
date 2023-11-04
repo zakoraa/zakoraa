@@ -6,7 +6,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.youtube.com/@raflisilehu/streams" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ## 📊 Github Stats
 <div align="center">
@@ -51,16 +56,14 @@
 
 </br>
 
-## 🌐 Socials
-<p align="center">
-<a href="https://instagram.com/raflisilehu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raflisilehu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@raflisilehu/streams" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
-</p>
-
-</br>
-
 ---
 </div>
+
+
+
+
+
+
 
 
 
