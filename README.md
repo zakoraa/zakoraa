@@ -7,13 +7,13 @@
 [![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  
-  <a href="https://www.instagram.com/raflisilehu_/?igshid=ZDdkNTZiNTM%3D"  target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"/> </a>
-  
+  <a href="https://www.linkedin.com/in/muhammad-rafli-silehu-44a89828b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
   <a href="https://www.youtube.com/@raflisilehu/streams" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
+     <a href="https://www.instagram.com/raflisilehu_/?igshid=ZDdkNTZiNTM%3D"  target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"/> </a>
   
 </div>
 
