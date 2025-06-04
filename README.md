@@ -1,5 +1,7 @@
 <h1 align="center" style="color: #5D87FF">Hi 👋, I'm Muhammad Rafli Silehu</h1>
 
+<!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
+
 <p align="center"><em>I'm passionate about software development, especially in mobile and web development.</em></p>
 
 <p align="center">
