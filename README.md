@@ -1,9 +1,8 @@
 <div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Rafli Silehu</h1>
+<h3 align="center">I'm passionate about software development, especially in mobile and web development.</h3>
 
-![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5)
-
-#
-
+<!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
 
 [![](https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0)](https://visitcount.itsvg.in)
 
