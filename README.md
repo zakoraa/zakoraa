@@ -49,28 +49,36 @@ I'm passionate about building intuitive and scalable mobile and web applications
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<p>
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge"/>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white&style=for-the-badge"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white&style=for-the-badge"/>
+  </br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white&style=for-the-badge"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=for-the-badge"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white&style=for-the-badge"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white&style=for-the-badge"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white&style=for-the-badge"/>
 </p>
-
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zakoraa&theme=react&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&theme=react&hide_border=false&layout=compact)
-
+<p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakoraa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakoraa&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 ## 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p>
+  <img height="280em" src="https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+</p>
 
 
 ## 🎧 Music I'm Listening To
-
-![Spotify Playing](https://spotify-recently-played-readme.vercel.app/api?user=31juwflawxuxhufoheoclj6rg5ra&unique=true)
+<p>
+  <img height="320em" src="https://spotify-recently-played-readme.vercel.app/api?user=31juwflawxuxhufoheoclj6rg5ra&unique=true"/>
+</p>
