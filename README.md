@@ -1,10 +1,17 @@
-<h2>Hi guys👋, I'm Muhammad Rafli Silehu</h1>
+<p align="center">
+  <a href="https://github.com/zakoraa">
+    <img width="500em" src="https://github.com/user-attachments/assets/f6f73080-91cd-4a89-8b47-3bcbb065f2d7" alt="Muhammad Rafli Silehu" /></a>
+ <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100em"> -->
+</p>
 
 <!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
+## 
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=5D87FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Mobile+Developer;Web+Developer;Flutter+%7C+Kotlin;React.js+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+</div>
 
-<p><em>I'm passionate about software development, especially in mobile and web development.</em></p>
-
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/muhammad-rafli-silehu-44a89828b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -14,13 +21,13 @@
   <a href="https://www.instagram.com/raflisilehu_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-</p>
+</div>
 
-<p>
-  <a href="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0"/>
-  </a>
-</p>
+<div align="center">
+   <a href="https://github.com/zakoraa" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=zakoraa&style=for-the-badge&color=5D87FF" alt="Visitor Count"/>
+</a>
+</div>
 
 
 ## 👨‍💻 About Me
@@ -45,7 +52,6 @@ I'm passionate about building intuitive and scalable mobile and web applications
 - 🔴 Real-time WebRTC communication
 - 🧼 Clean Architecture in Flutter
 - 📡 IoT & Bluetooth for mobile
-
 
 ## 💻 Tech Stack
 
@@ -77,6 +83,10 @@ I'm passionate about building intuitive and scalable mobile and web applications
   <img height="280em" src="https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </p>
 
+<h2>🏆 Trophy</h2><br/>
+<div>
+    <a href="https://github.com/zakoraa"><img  src="https://github-profile-trophy.vercel.app/?username=zakoraa&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="zakoraa ::: Trophy" /></a>
+</div>
 
 ## 🎧 Music I'm Listening To
 <p>
