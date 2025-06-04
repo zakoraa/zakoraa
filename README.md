@@ -1,16 +1,10 @@
-<h1 align="center" style="color: #5D87FF">Hi 👋, I'm Muhammad Rafli Silehu</h1>
+<h2>Hi guys👋, I'm Muhammad Rafli Silehu</h1>
 
 <!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
 
-<p align="center"><em>I'm passionate about software development, especially in mobile and web development.</em></p>
+<p><em>I'm passionate about software development, especially in mobile and web development.</em></p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0" alt="visit count"/>
-  </a>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/muhammad-rafli-silehu-44a89828b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -19,6 +13,12 @@
   </a>
   <a href="https://www.instagram.com/raflisilehu_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+<p>
+  <a href="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=zakoraa&icon=2&color=0"/>
   </a>
 </p>
 
