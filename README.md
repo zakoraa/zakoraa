@@ -85,7 +85,7 @@ I'm passionate about building intuitive and scalable mobile and web applications
 
 <h2>🏆 Trophy</h2><br/>
 <div>
-    <a href="https://github.com/zakoraa"><img  src="https://github-profile-trophy.vercel.app/?username=zakoraa&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="zakoraa ::: Trophy" /></a>
+    <a href="https://github.com/zakoraa"><img  src="https://github-profile-trophy.vercel.app/?username=zakoraa&column=7&margin-w=10&margin-h=15&theme=algolia&no-frame=true" alt="zakoraa ::: Trophy" /></a>
 </div>
 
 ## 🎧 Music I'm Listening To
