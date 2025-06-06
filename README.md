@@ -53,6 +53,17 @@ I'm passionate about building intuitive and scalable mobile and web applications
 - 🧼 Clean Architecture in Flutter
 - 📡 IoT & Bluetooth for mobile
 
+### 🚀 Latest Project
+<a width="50em" href="https://github.com/overlogic-universe/parky-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-v2&theme=algolia" />
+</a>
+<a width="50em" href="https://github.com/overlogic-universe/parky-web-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-web-admin&theme=algolia" />
+</a>
+<a width="50em" href="https://github.com/overlogic-universe/parky-web-parking-attendant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-web-parking-attendant&theme=algolia" />
+</a>
+
 ## 💻 Tech Stack
 
 <p>
