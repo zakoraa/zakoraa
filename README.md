@@ -33,27 +33,14 @@
 ## 👨‍💻 About Me
 
 Hi, I’m Rafli! I’ve been working professionally in software development since **2023** 🎉  
-I'm passionate about building intuitive and scalable mobile and web applications 🚀
+I'm  passionate about crafting intuitive and scalable mobile & web apps. You’re welcome to check out the code, pick up useful components, or even fork full apps for your own use.
 
-### 📱 Mobile Development
-- 💙 **Flutter** (main expertise)
-- 📱 Kotlin for Android native
+### A bit about me:
+- 🚀 I enjoy creating smooth and scalable user experiences.
+- 🧠 Curious about real-time tech like WebRTC and Bluetooth.
+- 💙 Flutter is my go-to tool for mobile development.
 
-### 🌐 Web Development
-- ⚛️ React.js & Next.js
-- 🧬 Laravel for backend + full-stack
-- 🌍 REST API & SSR concepts
-
-### 🛠 Backend & Cloud
-- 🔗 Express.js, Laravel (API, Auth, MVC)
-- ☁️ Firebase, Supabase
-
-### 🧠 Currently Exploring
-- 🔴 Real-time WebRTC communication
-- 🧼 Clean Architecture in Flutter
-- 📡 IoT & Bluetooth for mobile
-
-### 🚀 Latest Project
+## 🚀 Latest Project
 <a width="50em" href="https://github.com/overlogic-universe/parky-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-v2&theme=algolia" />
 </a>
