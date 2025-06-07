@@ -40,7 +40,7 @@ I'm  passionate about crafting intuitive and scalable mobile & web apps. You’r
 - 🧠 Curious about real-time tech like WebRTC and Bluetooth.
 - 💙 Flutter is my go-to tool for mobile development.
 
-## 🚀 Latest Project
+## 🚀 Latest Public Project
 <a width="50em" href="https://github.com/overlogic-universe/parky-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-v2&theme=algolia" />
 </a>
