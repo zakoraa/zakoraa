@@ -29,26 +29,30 @@
 </a>
 </div>
 
-
 ## 👨‍💻 About Me
 
-Hi, I’m Rafli! I’ve been working professionally in software development since **2023** 🎉  
-I'm  passionate about crafting intuitive and scalable mobile & web apps. You’re welcome to check out the code, pick up useful components, or even fork full apps for your own use.
+Hi, I’m Rafli! I’ve been working professionally in software development since **2023** 🎉
+
+I'm passionate about crafting intuitive and scalable mobile & web apps. You’re welcome to check out the code, pick up useful components, or even fork full apps for your own use.
+
+Currently, I’m also exploring the world of **Web3 and Blockchain**, with a particular focus on the **Cosmos ecosystem** and building decentralized infrastructure using **Cosmos SDK**.
 
 ### A bit about me:
-- 🚀 I enjoy creating smooth and scalable user experiences.
-- 🧠 Curious about real-time tech like WebRTC and Bluetooth.
-- 💙 Flutter is my go-to tool for mobile development.
+
+* 🚀 I enjoy creating smooth and scalable user experiences.
+* ⛓️ Currently exploring **Web3 development and blockchain architecture**, especially in **Cosmos SDK**.
+* 🧠 Curious about real-time tech like WebRTC and Bluetooth.
+* 💙 Flutter is my go-to tool for mobile development.
 
 ## 🚀 Latest Public Projects
-<a width="50em" href="https://github.com/overlogic-universe/parky-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-v2&theme=algolia" />
+<a width="50em" href="https://github.com/zakoraa/overgive-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-web&theme=algolia" />
 </a>
-<a width="50em" href="https://github.com/overlogic-universe/parky-web-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-web-admin&theme=algolia" />
+<a width="50em" href="https://github.com/zakoraa/overgive-chain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-chain&theme=algolia" />
 </a>
-<a width="50em" href="https://github.com/overlogic-universe/parky-web-parking-attendant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=overlogic-universe&repo=parky-web-parking-attendant&theme=algolia" />
+<a width="50em" href="https://github.com/zakoraa/overloan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overloan&theme=algolia" />
 </a>
 
 ## 💻 Tech Stack
