@@ -39,9 +39,10 @@ Currently, I’m also exploring the world of **Web3 and Blockchain**, with a par
 
 ### A bit about me:
 
-* 🚀 I enjoy creating smooth and scalable user experiences.
 * ⛓️ Currently exploring **Web3 development and blockchain architecture**, especially in **Cosmos SDK**.
-* 💙 Flutter is my go-to tool for mobile development.
+* 💙 **Flutter** is my go-to tool for **mobile development**.
+* 🌐 For **web development**, I primarily work with **Next.js**.
+* 🚀 I enjoy creating smooth and scalable user experiences.
 
 ## 🚀 Latest Public Projects
 <a width="50em" href="https://github.com/zakoraa/overgive-web">
