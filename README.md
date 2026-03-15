@@ -41,7 +41,6 @@ Currently, I’m also exploring the world of **Web3 and Blockchain**, with a par
 
 * 🚀 I enjoy creating smooth and scalable user experiences.
 * ⛓️ Currently exploring **Web3 development and blockchain architecture**, especially in **Cosmos SDK**.
-* 🧠 Curious about real-time tech like WebRTC and Bluetooth.
 * 💙 Flutter is my go-to tool for mobile development.
 
 ## 🚀 Latest Public Projects
