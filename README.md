@@ -4,15 +4,14 @@
 
 <div align="center">
   <a href="https://github.com/zakoraa">
-    <img width="500em" src="https://github.com/user-attachments/assets/f6f73080-91cd-4a89-8b47-3bcbb065f2d7" alt="Muhammad Rafli Silehu" />
+    <img width="500em" src="https://github.com/user-attachments/assets/c0f4ec2e-f141-453a-9a5c-1f7cf6ebc971" alt="Muhammad Rafli Silehu" />
   </a>
 </div>
 
 <!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
 ## 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=5D87FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Mobile+Developer;Web+Developer;Flutter+%7C+Kotlin;React.js+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=70&lines=Blockchain+Developer;Mobile+Developer+%7C+Web+Developer;Solidity;Flutter+%7C+Kotlin;React.js+%7C+Next.js+%7C+Laravel" />
 </div>
 
 <div align="center">
