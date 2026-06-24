@@ -11,7 +11,7 @@
 <!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
 ## 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=70&lines=Blockchain+Developer;Mobile+Developer+%7C+Web+Developer;Solidity;Flutter+%7C+Kotlin;React.js+%7C+Next.js+%7C+Laravel" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=70&lines=Blockchain+Developer;Mobile+Developer+%7C+Web+Developer;Cosmos+SDK+%7C+Solidity;Flutter+%7C+Kotlin;React.js+%7C+Next.js+%7C+Laravel" />
 </div>
 
 <div align="center">
@@ -32,20 +32,26 @@
 </a>
 </div>
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-Hi, I’m Rafli! I’ve been working professionally in software development since **2023** 🎉
+Building digital products across **Mobile**, **Web**, and **Blockchain**.
 
-I'm passionate about crafting intuitive and scalable mobile & web apps. You’re welcome to check out the code, pick up useful components, or even fork full apps for your own use.
+<table>
+<tr>
+<td>📱 Mobile</td>
+<td>Flutter • Kotlin</td>
+</tr>
+<tr>
+<td>🌐 Web</td>
+<td>Next.js • React • Laravel</td>
+</tr>
+<tr>
+<td>⛓️ Blockchain</td>
+<td>Cosmos SDK • Solidity</td>
+</tr>
+</table>
 
-Currently, I’m also exploring the world of **Web3 and Blockchain**, with a particular focus on the **Cosmos ecosystem** and building decentralized infrastructure using **Cosmos SDK**.
-
-### A bit about me:
-
-* ⛓️ Currently exploring **Web3 development and blockchain architecture**, especially in **Cosmos SDK**.
-* 💙 **Flutter** is my go-to tool for **mobile development**.
-* 🌐 For **web development**, I primarily work with **Next.js**.
-* 🚀 I enjoy creating smooth and scalable user experiences.
+> Focused on scalability, performance, and user experience.
 
 ## 🚀 Latest Public Projects
 <a width="50em" href="https://github.com/zakoraa/overgive-web">
@@ -60,20 +66,33 @@ Currently, I’m also exploring the world of **Web3 and Blockchain**, with a par
 
 ## 💻 Tech Stack
 
-<p>
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge"/>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-2edf85?logo=Android&logoColor=white&style=for-the-badge"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ec2025?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f1850b?logo=Kotlin&logoColor=white&style=for-the-badge"/>
-  </br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?logo=JavaScript&logoColor=white&style=for-the-badge"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=for-the-badge"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=white&style=for-the-badge"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-494949?logo=next.js&logoColor=white&style=for-the-badge"/>
-  <img alt="php" src="https://img.shields.io/badge/-php-777bb3?logo=php&logoColor=white&style=for-the-badge"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white&style=for-the-badge"/>
+<p align="start">
+
+  <!-- Mobile -->
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/>
+
+  <br/>
+
+  <!-- Web -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+
+  <br/>
+
+  <!-- Blockchain -->
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge"/>
+  <img alt="Cosmos SDK" src="https://img.shields.io/badge/Cosmos_SDK-2E3148?logo=cosmos&logoColor=white&style=for-the-badge"/>
+  <img alt="Foundry" src="https://img.shields.io/badge/Foundry-000000?logo=ethereum&logoColor=white&style=for-the-badge"/>
+
 </p>
 
 ## 📊 GitHub Stats
