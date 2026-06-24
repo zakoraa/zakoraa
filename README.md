@@ -46,13 +46,13 @@ Currently, I’m also exploring the world of **Web3 and Blockchain**, with a par
 
 ## 🚀 Latest Public Projects
 <a width="50em" href="https://github.com/zakoraa/overgive-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-web&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-web&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
 </a>
 <a width="50em" href="https://github.com/zakoraa/overgive-chain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-chain&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-chain&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
 </a>
 <a width="50em" href="https://github.com/zakoraa/overloan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overloan&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overloan&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
 </a>
 
 ## 💻 Tech Stack
@@ -74,20 +74,33 @@ Currently, I’m also exploring the world of **Web3 and Blockchain**, with a par
 </p>
 
 ## 📊 GitHub Stats
-
-<p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakoraa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakoraa&layout=compact&langs_count=8&theme=algolia"/>
+<p align="start">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakoraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&langs_count=6&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&layout=compact" />
 </p>
 
-## 🔝 Top Contributed Repo
-<p>
-  <img height="280em" src="https://github-contributor-stats.vercel.app/api?username=zakoraa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+## 🚀 Latest Public Projects
+
+<a href="https://github.com/zakoraa/overgive-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-web&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
+</a>
+
+<a href="https://github.com/zakoraa/overgive-chain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-chain&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
+</a>
+
+<a href="https://github.com/zakoraa/overloan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overloan&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
+</a>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakoraa&bg_color=020617&color=E2E8F0&line=3B82F6&point=60A5FA&area=true" />
 </p>
 
-<h2>🏆 Trophy</h2><br/>
-<div>
-    <a href="https://github.com/zakoraa"><img  src="https://github-profile-trophy.vercel.app/?username=zakoraa&column=7&margin-w=10&margin-h=15&theme=algolia&no-frame=true" alt="zakoraa ::: Trophy" /></a>
-</div>
+## 🏆 Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zakoraa&theme=algolia&column=7&margin-w=10&margin-h=15&no-frame=true&no-bg=true" />
+</p>
 
 
