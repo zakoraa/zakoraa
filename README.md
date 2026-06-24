@@ -1,8 +1,12 @@
-<p align="center">
+<div align="center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200px">
+</div>
+
+<div align="center">
   <a href="https://github.com/zakoraa">
-    <img width="500em" src="https://github.com/user-attachments/assets/f6f73080-91cd-4a89-8b47-3bcbb065f2d7" alt="Muhammad Rafli Silehu" /></a>
- <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100em"> -->
-</p>
+    <img width="500em" src="https://github.com/user-attachments/assets/f6f73080-91cd-4a89-8b47-3bcbb065f2d7" alt="Muhammad Rafli Silehu" />
+  </a>
+</div>
 
 <!-- ![replicate-prediction-qkxy6zjbi2wyvzndhxhj3lmr7m (2) (1)](https://github.com/user-attachments/assets/11514e00-b114-4c9d-8a7c-ea0ad92ab9a5) -->
 ## 
