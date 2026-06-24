@@ -97,8 +97,8 @@ Building digital products across **Mobile**, **Web**, and **Blockchain**.
 
 ## 📊 GitHub Stats
 <p align="start">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakoraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&langs_count=6&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakoraa&show_icons=true&include_all_commits=true&count_private=true&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&langs_count=6&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&layout=compact" />
 </p>
 
 ## 🚀 Latest Public Projects
