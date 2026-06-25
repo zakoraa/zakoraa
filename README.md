@@ -101,20 +101,6 @@ Building digital products across **Mobile**, **Web**, and **Blockchain**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakoraa&langs_count=6&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0&layout=compact" />
 </p>
 
-## 🚀 Latest Public Projects
-
-<a href="https://github.com/zakoraa/overgive-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-web&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
-</a>
-
-<a href="https://github.com/zakoraa/overgive-chain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overgive-chain&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
-</a>
-
-<a href="https://github.com/zakoraa/overloan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakoraa&repo=overloan&bg_color=135,020617,0F172A,1E293B,1D4ED8,000000&title_color=60A5FA&text_color=E2E8F0" />
-</a>
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakoraa&bg_color=020617&color=E2E8F0&line=3B82F6&point=60A5FA&area=true" />
